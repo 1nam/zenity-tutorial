@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# 1nam testing bash and zenityl
+# 1nam testing bash and zenity
 
 # if yes you choose a color echos the color code.
 # elif no strings good bye...
